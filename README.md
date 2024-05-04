@@ -34,7 +34,7 @@ L'application Student offre aux étudiants la possibilité d'interagir avec les 
 Pour installer et exécuter les applications sur votre machine locale, suivez les étapes ci-dessous :
 
 1. Clonez ce dépôt sur votre machine locale en utilisant :
-git clone [https://github.com/username/institut-app.git](https://github.com/Mouna-Chtourou/MiniProjet_mobile.git)
+git clone https://github.com/Mouna-Chtourou/MiniProjet_mobile.git
 
 2. Naviguez dans le dossier du projet et installez les dépendances :
 cd institut-app
